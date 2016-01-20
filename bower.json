@@ -1,7 +1,7 @@
 {
-  "name": "flexslider",
-  "version": "2.6.0",
-  "homepage": "https://github.com/woothemes/FlexSlider",
+  "name": "studioibizz-flexslider-scss",
+  "version": "2.6.1",
+  "homepage": "https://github.com/LucasStudioiBiZZ/studioibizz-FlexSlider-scss",
   "authors": [
     "WooThemes <jeff@woothemes.com>"
   ],
@@ -25,8 +25,5 @@
     "test",
     "tests",
     "demo"
-  ],
-  "dependencies": {
-    "jquery": ">=1.11.3"
-  }
+  ]
 }
